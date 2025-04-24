@@ -2,7 +2,7 @@
 
 ## Javascript for Frontend
 
-This repository contains all the project codes for the javascript backend specilization
+This repository contains all the project codes for the javascript frontend specilization
 
 ## Projects
 
